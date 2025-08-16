@@ -16,6 +16,7 @@ Here's a side by side comparision:
 <img width="534" height="263" alt="image" src="https://github.com/user-attachments/assets/1bb69e84-ddc3-472d-958b-1f98c009c18e" />
 
 # Aditional notes
-Using [this SGB border injector](https://www.marcrobledo.com/super-game-boy-border-injector/) with its companion [border converter](https://www.marcrobledo.com/super-game-boy-border-converter/) also generates a correct border.
+- Using [this SGB border injector](https://www.marcrobledo.com/super-game-boy-border-injector/) with its companion [border converter](https://www.marcrobledo.com/super-game-boy-border-converter/) also generates a correct border.
+- This bug is reproducible on versions 4.4.0 and 4.3.0 of GBDK.
+- This has been tested on Ares, Mugen, BGB and mGBA, but not on real hardware (yet).
 
-This has been tested on Ares, Mugen, BGB and mGBA, but not on real hardware (yet).
